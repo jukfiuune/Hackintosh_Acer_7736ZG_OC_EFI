@@ -33,3 +33,5 @@
 
 * Screen flickers when brightness is lower than 100%
 * Yosemite and El Capitan are at a black screen after boot
+* Black screen after MACH Reboot instead of restarting
+* BIOS gets cleared after booting in Mac OS X
